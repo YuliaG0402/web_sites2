@@ -1,0 +1,41 @@
+header{
+    background-color: black;
+    height:70px ;
+} 
+
+header img{
+    height:50px ;
+    width:100px ;
+}
+
+header a{
+    text-decoration:none ;
+    color: white;
+    border:1px solid white ;
+    border-radius:30px ;
+}
+body {
+    font-family: sans-serif;
+}
+
+h1{
+    text-align:center;
+}
+main img{
+    height:170px ;
+    width: 170px;
+}
+footer{
+    background-color:black;
+    border: 0.2px solid black ;
+    
+}
+footer p{
+    background-color:white;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.right{
+    float: right;  
+    margin:0 0 1em 1em ;  
+}
